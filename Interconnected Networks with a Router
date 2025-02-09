@@ -1,6 +1,0 @@
-Project: Interconnecting Two Networks Using a Router
-
-Configured two separate networks using different subnets (192.168.1.0/24 & 192.168.2.0/24).
-Used a router to enable communication between both networks.
-Set up static routing to ensure proper packet forwarding.
-Tested network connectivity using Ping and Packet Tracer simulations.
